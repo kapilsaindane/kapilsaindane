@@ -9,7 +9,7 @@
 
 ## 💡 About Me
 
-I’m a Product Management professional with 6+ years of experience in the packaging and industrial equipment industry.
+I’m a Product Management professional with 6+ years of experience in the B2B capital goods equipment.
 
 I specialize in:
 - Product Lifecycle Management (0 → 1 → Scale)
@@ -41,7 +41,9 @@ I enjoy building products that solve real customer problems and drive measurable
 - JIRA
 - Figma
 - Balsamiq
+- Mixpanel
 - Google Analytics
+- Lovaible AI
 - MS Office Suite
 - CRM Tools
 
